@@ -95,7 +95,7 @@ public class CadastraCliente {
 
 		try {
 			
-				if (nome[alternativa]!=null && !(nome[fundo].isEmpty())) {
+				if (nome[alternativa]!=null && !(nome[alternativa].isEmpty())) {
 					
 				
 					mensagemSaida("Encontramos o cliente:\n" +
@@ -140,7 +140,7 @@ public class CadastraCliente {
 
 		try {
 			
-				if (nome[alternativa]!=null && !(nome[fundo].isEmpty())) {
+				if (nome[alternativa]!=null && !(nome[alternativa].isEmpty())) {
 					
 				
 					mensagemSaida("Encontramos o cliente " + nome[alternativa] +
@@ -197,7 +197,7 @@ public class CadastraCliente {
 
 		try {
 			
-				if (nome[alternativa]!=null && !(nome[fundo].isEmpty())) {
+				if (nome[alternativa]!=null && !(nome[alternativa].isEmpty())) {
 					
 				
 					mensagemSaida("Excluímos o cliente:\n" +
